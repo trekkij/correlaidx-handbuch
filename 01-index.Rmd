@@ -14,4 +14,5 @@ params:
 
 Hallo! Schön, dass du hier bist.
 
-## Wer ist an einem CorrelAid-Projekt beteiligt?
+## Was ist CorrelAidX?
+lorem ipsum...
