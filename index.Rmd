@@ -3,18 +3,11 @@ params:
   emoji: yes
 ---
 
-# This is a test {#intro}
+# Was ist CorrelAidx? {#intro}
+CorrelAid ist ein Netzwerk von jungen Datenanalysten und Datenanalystinnen, die ihr erworbenes Wissen aus Studium und Beruf einbringen, um gemeinnützigen Organisationen dabei zu helfen, ihre Daten besser zu verstehen und zu analysieren. CorrelAid baut auf drei Säulen auf: Wir nehmen in Deutschland eine Vorreiterrolle bei der Datenanalyse-Beratung von Organisationen mit sozialem Auftrag ein. Wir vernetzen junge und engagierte Data Scientists und bieten ihnen eine Plattform, ihre Kenntnisse anzuwenden und zu erweitern. Zudem stoßen wir einen Dialog über den Wert und Nutzen von Daten und Datenanalyse für die Zivilgesellschaft an.
+Unsere drei Säulen - Beratung, Vernetzung, Dialog - sollen auch auf lokaler Ebene umgesetzt werden, der Fokus ist hierbei abhängig von den jeweiligen Möglichkeiten vor Ort. Im Vordergrund steht zunächst, dass ambitionierte und datenaffine Menschen zueinander finden. Ob ihr nun vor Ort aber überwiegend eben jene Menschen zusammenbringt und ausbildet (*Vernetzung*), bewusst lokale Projekte angeht (*Beratung*) oder über das Verhältnis von Daten und Gesellschaft diskutiert (*Dialog*), steht euch frei. 
+Dieses Handbuch soll euch einen Überblick verschiedener Formate auf lokaler Ebene geben. Hier fließt gesammeltes Wissen aus bereits durchgeführten Formaten zusammen um euch eine möglichst unkomplizierte Umsetzung zu ermöglichen. Im Anhang beinden sich Vorlagen die ihr für die Ersellung eigener Veranstatungen nutzen könnt. Solltet ihr Fragen und Anregungen haben gebt diese gerne an regina.s@correlaid.org weiter, denn dieses Handbuch soll gemeinsam mit CorrelAid und euren Erfahrungen wachsen. Viel Spaß beim stöbern und keine Scheu vorm Ausprobieren :wink:
 
-```{r libraries, echo=FALSE}
-# library(emo)
-```
+## Part 1
 
-
-## Einführungs- und Überblickstext
-
-Hallo! Schön, dass du hier bist.
-
-## Was ist CorrelAidX?
-lorem ipsum...
-
-## Some new content here
+## Part 2
